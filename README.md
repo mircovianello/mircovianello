@@ -12,7 +12,7 @@
 <!-- Talking about you -->
 **About me:**
 
-* 🌍  I'm based in Rome, Italy
+* 🤌🏻  I'm based in Rome, Italy
 * 🚀  I'm currently working in [Domec](http://https://www.domecsolutions.com/)
 * 🖥️  See my portfolio at [mircovianello.dev](http://www.mircovianello.dev/)
 * ✉️  You can contact me at [se.mircovianello@gmail.com](mailto:se.mircovianello@gmail.com)

@@ -2,7 +2,7 @@
 ## Hi, I'm Mirco Vianello, a Software Engineer
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="45%" align="right" alt="Github" src="https://github.com/mircovianello/mircovianello/blob/main/DreamJob.gif?raw=true" />
+<img width="45%" align="right" alt="Github" src="https://cdn.dribbble.com/users/4315809/screenshots/15787569/media/c935eda793ec9e6ddf372506783dc302.jpg" />
 
 <!-- Your badges-->
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.mircovianello.dev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.mircovianello@gmail.com) [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/mirco-vianello) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mircovianello)

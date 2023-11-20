@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi there 👋 , I'm Mirco Vianello, a Software Engineer from Italy 
+## Hi, I'm Mirco Vianello, a Software Engineer from Italy 
 
 <!-- Your badges-->
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.mircovianello.dev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.mircovianello@gmail.com) [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/mirco-vianello) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mircovianello)

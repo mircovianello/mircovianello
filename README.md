@@ -3,21 +3,21 @@
 
 <!-- Your badges-->
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.mircovianello.dev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.mircovianello@gmail.com) [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/mirco-vianello) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mircovianello)
-</p>
 
 ##### _⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️_
 
-Put a long description ....
+<!-- Talking about you -->
+**About me:**
 
 * 🌍  I'm based in Rome
+* 🚀  I'm currently working on [Domec](http://https://www.domecsolutions.com/)
 * 🖥️  See my portfolio at [mircovianello.dev](http://www.mircovianello.dev/)
 * ✉️  You can contact me at [se.mircovianello@gmail.com](mailto:se.mircovianello@gmail.com)
-* 🚀  I'm currently working on [Domec](http://https://www.domecsolutions.com/)
 
 **Languages and Tools:**
 <!-- Your github readme stats-->
 <p>
-  <img  width="55%" align="right" alt="mircovianello's github stats" src="https://github.com/mircovianello/github-stats-terminal/blob/master/github_stats.svg"/>
+  <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=mircovianello&show_icons=true&hide_border=true" />
   <!-- Your languages and tools.-->
   <code><img width="6%" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
   <code><img width="6%" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>

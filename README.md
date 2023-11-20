@@ -28,4 +28,4 @@
 </p>
 
 <!-- Your hits or visitors-->
-<p align="right"><img src="https://komarev.com/ghpvc/?username=mircovianello&label=visitors" alt="visitors"/></p> 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=mircovianello&label=visitors" alt="visitors"/></p> 

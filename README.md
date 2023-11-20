@@ -1,8 +1,8 @@
 <!-- Your title -->
-## Hi, I'm Mirco Vianello, a Software Engineer from Italy 
+## Hi, I'm Mirco Vianello, a Software Engineer
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/887503/screenshots/3649000/media/7209a3aa08637f40a41620c6df5bb356.gif" />
+<img width="55%" align="right" alt="Github" src="https://s5.gifyu.com/images/SR7nV.gif" />
 
 <!-- Your badges-->
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://www.mircovianello.dev/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:se.mircovianello@gmail.com) [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/mirco-vianello) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mircovianello)
@@ -12,7 +12,7 @@
 <!-- Talking about you -->
 **About me:**
 
-* 🌍  I'm based in Rome
+* 🌍  I'm based in Rome, Italy
 * 🚀  I'm currently working on [Domec](http://https://www.domecsolutions.com/)
 * 🖥️  See my portfolio at [mircovianello.dev](http://www.mircovianello.dev/)
 * ✉️  You can contact me at [se.mircovianello@gmail.com](mailto:se.mircovianello@gmail.com)
